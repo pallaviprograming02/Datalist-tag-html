@@ -1,0 +1,12 @@
+label for="b">Choose a browser: </label>
+<input list="list" id="b" name="browser"/>
+<datalist id="list">
+  <option value="Chrome">
+  <option value="Firefox">
+  <option value="Internet Explorer">
+  <option value="Opera">
+  <option value="Safari">
+  <option value="Microsoft Edge">
+</datalist>
+↓ Preview
+Choose a browser: 
